@@ -120,6 +120,7 @@ For each system, we recorded:
 This evaluation demonstrates:
 
 * Google Labs consistently outperformed other tools across both queries.
+* Google’s ecosystem likely benefits from, very large-scale web crawling infrastructure and Deep indexing of publisher pages (Elsevier, Springer, Nature, PNAS, etc.). Also benfitted by direct access to structured metadata (Crossref-like resolution layers).
 * Gemini showed strong performance in Query 1 but dropped in Query 2, indicating sensitivity to query complexity.
 * ChatGPT and Allen AI demonstrated lower recall, suggesting limitations in precise DOI-level retrieval.
 * Tools differ substantially in their ability to retrieve exact DOI matches rather than related literature.
