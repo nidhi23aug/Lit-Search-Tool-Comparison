@@ -11,10 +11,13 @@ The central question:
 > How effectively can modern AI systems retrieve *foundational (key) cited papers* when queried using natural research-style questions derived from peer-reviewed literature?
 
 Unlike many evaluations that assess explanation quality or summarization fluency, this study focuses strictly on:
+
 🎯 **Retrieval precision**
 🎯 **Foundational paper recall**
 🎯 **DOI-level matching accuracy**
+
 ---
+
 ## 🧠 Tools Evaluated
 ### 🔎 Literature Retrieval Platforms
 
