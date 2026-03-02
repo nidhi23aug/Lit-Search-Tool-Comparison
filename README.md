@@ -108,25 +108,26 @@ For each system, we recorded:
 * Missed foundational works
 ---
 
+# Date 1st March 2026
+## 2 queries
 
+<p align="center">
+  <img src="output (8).png"; object-fit:contain;">
 
 
 # Conclusion
 
 This evaluation demonstrates:
 
-* Literature retrieval and generative summarization are distinct capabilities.
-* Reverse-query testing from cited paragraphs is an effective benchmarking strategy.
-* High-impact journal bias may affect retrieval ranking.
-* Regional and policy-relevant studies are inconsistently retrieved across systems.
+* Google Labs consistently outperformed other tools across both queries.
+* Gemini showed strong performance in Query 1 but dropped in Query 2, indicating sensitivity to query complexity.
+* ChatGPT and Allen AI demonstrated lower recall, suggesting limitations in precise DOI-level retrieval.
+* Tools differ substantially in their ability to retrieve exact DOI matches rather than related literature.
 
 Future work may include:
 
-* Precision/Recall scoring
-* Citation overlap metrics
-* Query perturbation experiments
-* Topic generalization testing
-
+* More Queries?
+* More tools
 ---
 
 # Repository Purpose
